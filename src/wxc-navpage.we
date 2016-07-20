@@ -18,3 +18,20 @@
   	}
 </style>
 
+<script>
+    module.exports = {
+        data: {
+          dataRole: 'navbar',
+          backgroundColor: 'black',
+          height: 88,
+          title: "",
+          titleColor: 'black',
+          rightItemSrc: '',
+          rightItemTitle: '',
+          rightItemColor: 'black',
+          leftItemSrc: '',
+          leftItemTitle: '',
+          leftItemColor: 'black',
+        }
+    }
+</script>
