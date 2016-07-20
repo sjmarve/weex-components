@@ -1,7 +1,7 @@
 {
   "name": "weex-components",
-  "version": "0.1.4",
-  "main": "./index.we",
+  "version": "0.2.0",
+  "main": "./index.js",
   "description": "A group of simple and useful weex components",
   "license": "GPL-3.0",
   "repository": {
