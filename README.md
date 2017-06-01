@@ -2,7 +2,7 @@
 
 _copyright: the real author and init committer of these components is @luics and @jinjiang transfer them from [https://github.com/alibaba/weex](https://github.com/alibaba/weex)_
 
-A group of simple and useful components for [Weex](https://github.com/alibaba/weex). See [examples](https://github.com/alibaba/weex/blob/component/examples/ui.we) for more details. 
+A group of simple and useful components for [Weex](https://github.com/alibaba/weex). See [examples](https://github.com/apache/incubator-weex/tree/master/examples/showcase/ui.we) for more details. 
 
 Reference: 
 
